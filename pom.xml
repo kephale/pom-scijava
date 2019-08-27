@@ -1315,7 +1315,7 @@
 
 			<!-- ImageJ Updater - https://github.com/imagej/imagej-updater -->
 			<dependency>
-				<groupId>net.imagej</groupId>
+				<groupId>com.github.kephale</groupId>
 				<artifactId>imagej-updater</artifactId>
 				<version>${imagej-updater.version}</version>
 			</dependency>
